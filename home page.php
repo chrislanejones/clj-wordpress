@@ -15,7 +15,6 @@
 <div class="pageheight">
 
 
-<div class="col-lg-11 col-sm-10">
   <div id="clock">
   <div class="alert alert-info fade in alert-dismissable">
       <a href="#" class="close" data-dismiss="alert" aria-label="close" title="close">×</a>
@@ -24,10 +23,10 @@
      <strong><span class="digit" id="months"></span> Months,</strong>
      <strong><span class="digit" id="days"></span> Days,</strong>
      <strong><span class="digit" id="hours"></span> Hours,</strong>
-     <strong><span class="digit" id="minutes"></span>Minutes,</strong>
-     <strong><span class="digit" id="seconds"></span>Seconds.</strong> 
+     <strong><span class="digit" id="minutes"></span> Minutes,</strong>
+     <strong><span class="digit" id="seconds"></span> Seconds.</strong>
 
-       <strong><a href="https://2017.jacksonville.wordcamp.org/" rel="nofollow" target="_blank"><u>Hope to see you there!</u></a></strong>
+       <strong><a href="https://2017.jacksonville.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Hope to see you there!</span></u></a></strong>
 
 
 </div><!-- clock div -->
@@ -49,7 +48,7 @@
 
             <!-- EDUCATION -->
             <div class="box">
-            <h2><div class="hicon"><i class="fa fa-graduation-cap faa-bounce animated-hover fa-fw" aria-hidden="true"></div></i> Education & Web History</h2>
+            <h3><div class="hicon"><i class="fa fa-graduation-cap faa-bounce animated-hover fa-fw" aria-hidden="true"></div></i> Education & Web History</h3>
               <ul id="education" class="clearfix">
                 <li>
                   <div class="year pull-left">2012</div>
@@ -58,8 +57,8 @@
 
 
       <h5><i class="fa fa-code fa-pull-left fa-border fa-1x" aria-hidden="true"></i> I spent my entire Winter break in college building a portfolio.</h5>
-      <h6>While my other TV broadcast classmates used a free blog, I went out and purchased my own website host,
-        and edited a WordPress theme. I was offered by the professor to present my website in front of the class the first week of the semester.</h6>
+      <h6><span class="more">While my other TV broadcast classmates used a free blog, I went out and purchased my own website host,
+        and edited a WordPress theme. I was offered by the professor to present my website in front of the class the first week of the semester.</span></h6>
 
 	</div>
 	</li>
@@ -70,8 +69,8 @@
 
 
                     <h5><i class="fa fa-film fa-pull-left fa-border fa-1x" aria-hidden="true"></i> The portfolio I built, spawned a volunteer opportunity for a film fest. </h5>
-                    <h6>A friend introduced me to someone who frantically needed a website for a non-profit local film fest.
-                      I garnered my new skills and had a website up and running before the screening. </h6>
+                    <h6><span class="more">A friend introduced me to someone who frantically needed a website for a non-profit local film fest.
+                      I garnered my new skills and had a website up and running before the screening. </span></h6>
 
 
                   </div>
@@ -82,7 +81,8 @@
 
 
       <h5><i class="fa fa-university fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>I graduated from UNF and started a job just two weeks later.</h5>
-      <h6>In college, I took on three internships, one was required and you were allowed a maximum of three more. I considered doing one more internship until I heard the words, "you got the job!" My first job dealt with uploading files and photoshop work which landed me at Web.com</h6>
+      <h6><span class="more">In college, I took on three internships, one was required and you were allowed a maximum of three more. I considered doing one more internship until I heard
+        the words, "you got the job!" My first job dealt with uploading files and photoshop work which landed me at Web.com </span></h6>
 
                   </div>
                 </li>
@@ -93,7 +93,8 @@
 
 
       <h5><i class="fa fa-wordpress fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>My custom-built WordPress site and Photoshop skills landed me a job at Web.com</h5>
-      <h6>After working in video production, I yearned to work in web design and development. One of my jobs involved placing videos on the site and using FTP. I also learned Javascript own my own because I wanted to build web apps to increase productivity, I joined Web that fall to work on websites full time. </h6>
+      <h6><span class="more">After working in video production, I yearned to work in web design and development. One of my jobs involved placing videos on the site and using FTP.
+        I also learned Javascript own my own because I wanted to build web apps to increase productivity, I joined Web that fall to work on websites full time. </span></h6>
 
                   </div>
                 </li>
@@ -101,11 +102,11 @@
             </div>
             <!-- EXPERIENCES -->
             <div class="box">
-              <h2><div class="hicon"><i class="fa fa-briefcase faa-wrench animated-hover fa-fw" aria-hidden="true"></div></i> Experiences</h2>
+              <h3><div class="hicon"><i class="fa fa-briefcase faa-wrench animated-hover fa-fw" aria-hidden="true"></div></i> Experiences</h3>
               <div class="job clearfix">
 
                 <div class="col-xs-12">
-                  <div class="profession"><h3>Graphic and Web Designer</h3></div>
+                  <div class="profession"><h4>Graphic and Web Designer</h4></div>
                   <div class="where"><h4>Web.com | October 2015 – Present | Jacksonville, Florida Area</h4></div>
                   <div class="description">
   <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain portfolio-grade websites using HTML, CSS and Javascript for clients.
@@ -132,7 +133,7 @@
               </div>
               <div class="job clearfix">
                 <div class="col-xs-12">
-                  <div class="profession"><h3>Web Designer and Developer, SEO and Video Editor</h3></div>
+                  <div class="profession"><h4>Web Designer and Developer, SEO and Video Editor</h4></div>
                   <div class="where"><h4>Chris Lane Jones | June 2013 – Present | Jacksonville, Florida Area</h4></div>
                   <div class="description">
   <br><i class="fa fa-check" aria-hidden="true"></i> Freelance for major clients: Jacksonville Area Legal Aid, Mary Fisher Design, Rethreaded and Girls Inc.
@@ -156,9 +157,8 @@
           <div class="col-xs-12 col-sm-5">
 
 <div class="box clearfix">
-              <h2></h2>
 
-              <h2><div class="hicon"><i class="fa fa-phone faa-ring animated-hover fa-fw" aria-hidden="true"></div></i> Contact</h2>
+              <h3><div class="hicon"><i class="fa fa-phone faa-ring animated-hover fa-fw" aria-hidden="true"></div></i> Contact</h3>
               <div class="contact-item">
                 <div class="icon pull-left text-center"><span class="fa fa-phone fa-fw"></span></div>
                 <div class="title only pull-right">1 (904) 327-3284</div>
@@ -185,6 +185,8 @@
                 <div class="description pull-right"><a href="https://github.com/chrislanejones" target="_blank">https://github.com/chrislanejones</a></div>
               </div>
 
+
+
             </div>
 
 
@@ -195,10 +197,10 @@
 
 
             <div class="box">
-              <h2><div class="hicon"><i class="fa fa-bar-chart faa-tada animated-hover fa-fw" aria-hidden="true"></div></i> Skills</h2>
+              <h3><div class="hicon"><i class="fa fa-bar-chart faa-tada animated-hover fa-fw" aria-hidden="true"></div></i> Skills</h3>
               <div class="skills">
                 <div class="barWrapper">
-                 <span class="progressText"><h4>HTML5</h4></span>
+                 <span class="progressText"><h3>HTML5</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" >
                         <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"> </span>
@@ -206,7 +208,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>CSS3</h4></span>
+                 <span class="progressText"><h3>CSS3</h3></span>
                 <div class="progress ">
                   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="90%"> </span>
@@ -216,7 +218,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>Bootstrap</h4></span>
+                 <span class="progressText"><h3>Bootstrap</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="80%"> </span>
@@ -224,7 +226,7 @@
                 </div>
                 </div>
                 <div class="barWrapper">
-                 <span class="progressText"><h4>jQuery<h4></span>
+                 <span class="progressText"><h3>jQuery<h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
                          <span  class="popOver" data-toggle="tooltip" data-placement="top" title="75%"> </span>
@@ -233,7 +235,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>WordPress</h4></span>
+                 <span class="progressText"><h3>WordPress</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="75%"></span>
@@ -242,7 +244,7 @@
                 </div>
 
                   <div class="barWrapper">
-                 <span class="progressText"><h4>PHP</h4></span>
+                 <span class="progressText"><h3>PHP</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="70%"> </span>
@@ -253,7 +255,7 @@
 
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>Javascript</h4></span>
+                 <span class="progressText"><h3>Javascript</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
                          <span  class="popOver" data-toggle="tooltip" data-placement="top" title="65%"> </span>
@@ -262,7 +264,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>mySQL</h4></span>
+                 <span class="progressText"><h3>mySQL</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="35%"></span>
@@ -271,7 +273,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>Terminal Commands, Git & GitHub</h4></span>
+                 <span class="progressText"><h3>Terminal Commands, Git & GitHub</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="65%"></span>
@@ -280,20 +282,11 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h4>Sass</h4></span>
+                 <span class="progressText"><h3>Sass</h3></span>
                 <div class="progress">
                    <div class="progress">
                      <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="10" aria-valuemax="100">
                        <span  class="popOver" data-toggle="tooltip" data-placement="top" title="20%"></span>
-                  </div>
-                </div>
-                </div>
-
-                <div class="barWrapper">
-                 <span class="progressText"><h4>Angular</h4></span>
-                <div class="progress">
-                   <div class="progress">
-                     <div class="progress-bar" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
                 </div>
@@ -304,7 +297,7 @@
 
 
           <div class="header">
-            <h2><div class="hicon"><i class="fa fa-terminal faa-flash animated-hover fa-fw" aria-hidden="true"></div></i> Terminal</h2>
+            <h3><div class="hicon"><i class="fa fa-terminal faa-flash animated-hover fa-fw" aria-hidden="true"></div></i> Terminal</h3>
 
             <div class="head-wrap shift-text">
 
@@ -313,18 +306,21 @@
   </div><div>
 
 
-                <div class="text-body">
-                   <span id="typed">[chrislanejones@archlinuxpc]: ~>$ sudo lshw
-  </br>
-  </br>Primary OS: Arch Linux Gnome
-  </br>Primary IDE: Atom
-  </br>Text Editors: Nano, Gedit
-  </br>Web Host Type: VPS Debian Droplet
-  </br>Local Host: LAMP stack
-  </br>PHP Editor: PHP Storm
-  </br>Container: Docker
-  </br>FTP: Filezilla
-  </button></span>
+    <div class="text-body">
+       <span id="typed">chrislanejones@archlinuxpc: ~>$ sudo lshw
+</br>
+</br>Primary OS: Arch Linux
+</br>Primary DE: Gnome
+</br>Primary IDE: Atom
+</br>Text Editors: Nano, Gedit
+</br>Web Host Type: VPS Debian Droplet
+</br>Local Host: LAMP stack
+</br>Web Server: Apache or Ngnix
+</br>PHP Editor: PHP Storm
+</br>Container: Docker
+</br>FTP: Filezilla
+</button></span>
+
 
 
 
@@ -337,8 +333,8 @@
             </div>
             <!-- HOBBIES -->
             <div class="box">
-              <h2></h2>
-              <h2><div class="hicon"><i class="fa fa-paper-plane faa-passing animated-hover fa-fw" aria-hidden="true"></div></i> Hobbies and Interest</h2>
+              <br></br>
+              <h3><div class="hicon"><i class="fa fa-paper-plane faa-passing animated-hover fa-fw" aria-hidden="true"></div></i> Hobbies and Interest</h3>
               <div class="hobby">Javascript</div>
               <div class="hobby">Internet of things (IoT)</div>
                 <div class="hobby">Flying Drones</div>

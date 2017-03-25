@@ -17,8 +17,6 @@ SETTINGS
 BODY
 *******************************************/
 
-
-
 div.contact-item { word-wrap: break-word;
 }
 
@@ -36,7 +34,7 @@ h2 {
 h3{
   font-family: 'Asap', Arial, sans-serif;
     font-weight: 400;
-    font-size: 1.7em;
+    font-size: 2em;
 }
 
 h4{
@@ -70,30 +68,126 @@ hr {
   border-top: 4px double #32a1a0!important;
 }
 
+span.underline { text-decoration: underline; }
+
+
+/*
+Read More
+*/
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
 /*******************************************
 Blog Page
 *******************************************/
 
-.quote-style {
+.blogtitle {
   font-family: 'Asap', Georgia, serif;
   font-weight: 400;
-  font-size: 3em;
-}
-
-.greyblock {
-  display: inline-block;
-  background: #eee;
-  margin-bottom: 10px;
-  position: relative;
-  padding: 10px 10px 0 10px;
-  border-bottom: 1px solid #ddd;
+  font-size: 1.9em!important;
 }
 
 .quote-style-small {
-  font-family: 'Sriracha', Georgia, serif;
+  font-family: 'Asap', Georgia, serif;
   font-weight: 400;
-  font-size: 2.5em;
+  font-size: .5em;
   text-align: center;
+}
+
+#boxline {
+    margin-top: 20px;
+    position: relative;
+    padding: 1em 0;
+    list-style: none;
+}
+
+#boxline:before {
+    background: #35bbb5;
+    width: 5px;
+    height: 100%;
+    position: absolute;
+    left: 15px;
+    top: 0;
+    content: ' ';
+    display: block;
+    background: -moz-linear-gradient(top, #ffffff 0%, #35bbb5 7%, ##35bbb5 89%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,##35bbb5), color-stop(89%,##35bbb5), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #ffffff 0%,#35bbb5 7%,##35bbb5 89%,#ffffff 100%);
+    background: -o-linear-gradient(top, #ffffff 0%,#35bbb5 7%,##35bbb5 89%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #ffffff 0%,##35bbb5 7%,##35bbb5 89%,#ffffff 100%);
+    background: linear-gradient(to bottom, #ffffff 0%,##35bbb5 7%,##35bbb5 89%,#ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+
+#boxline li {
+    width: 100%;
+    z-index: 2;
+    position: relative;
+    float: left;
+}
+
+#boxline .textinfo {
+    width: 10%;
+    background: #fff;
+    padding-left: 0px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 3.5em;
+    font-weight: 400;
+    display: inlines-block;
+}
+
+#boxline .textbox {
+    width: 80%;
+    display: inline-block;
+    background: #eee;
+    margin-bottom: 10px;
+    position: relative;
+    padding: 10px 10px 0 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+#boxline .textbox:after {
+    content: '';
+    position: absolute;
+    top: 25px;
+    right: 0;
+    left: -16px;
+    height: 0;
+    width: 0;
+    border: solid transparent;
+    border-right-color: #eee;
+    border-width: 8px;
+    pointer-events: none;
+}
+
+@media (min-width: 1200px) {
+
+#boxline .textbox {
+    width: 90%;
+}
+}
+@media (min-width: 992px) {
+
+#boxline .textbox {
+    width: 90%;
+}
+}
+@media (min-width: 768px) {
+
+#boxline .textbox {
+    width: 90%;
+}
+}
+@media (min-width: 500px) {
+
+#boxline .textbox {
+    width: 90%;
+}
 }
 
 
@@ -156,7 +250,12 @@ PHOTO (AVATAR)
 Main Page
 *******************************************/
 
-#text-header h1, h2{
+#text-header h1{
+  text-align: left!important;
+  margin-top: 5px!important;
+}
+
+#text-header h2{
   text-align: left!important;
   margin-top: 5px!important;
 }
@@ -279,13 +378,13 @@ DEFAULT BOX
 .box{
   margin-bottom: 15px;
 }
-.box h2{
+.box h3{
   color: #35bbb5;
   font-size: 1.8em;
   font-weight: 400;
   text-transform: uppercase;
 }
-.box h2:before{
+.box h3:before{
   /*content: '//';*/
   margin-right: 5px;
 }
@@ -306,40 +405,7 @@ ABOUT
 /*******************************************
 EDUCATION
 *******************************************/
-.gallery cf{
-  float: left;
-  width: 150px;
-  clear: left;
-}
 
-
-.gallery > div > img {
-  position: inherit;
-  display: block;
-  width: 110px;
-  z-index: 9970;
-  transition: .1s transform;
-  transform: translateZ(0); /* hack */
-}
-
-.gallery > div:hover {
-  z-index: 9970;
-}
-
-.gallery > div:hover > img {
-  transform: scale(1.4,1.4);
-  transition: .9s transform;
-}
-
-.cf:before, .cf:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-
-.cf:after {
-  clear: both;
-}
 
 #education{
   margin-top: 20px;
@@ -351,8 +417,9 @@ EDUCATION
   width: 5px;
   height: 100%;
   position: absolute;
-  left: 25px;
+  left: 15px;
   top: 0;
+  background: #35bbb5;
   content: ' ';
   display: block;
   background: -moz-linear-gradient(top,  #ffffff 0%, #35bbb5 7%, ##35bbb5 89%, #ffffff 100%);
@@ -380,16 +447,7 @@ EDUCATION
 
 
   /*Fixes Left Green Bar in moblie*/
-@media (min-width: 320px) {
-  #education:before {
-    background: transparent;
-  }
-}
-@media (min-width: 768px) {
-  #education:before {
-    background: #35bbb5;
-  }
-}
+
 
 
 #education li{
@@ -539,7 +597,7 @@ Terminal
 .shift-text {
   margin: 20px auto 110px; }
   .shift-text .text-body {
-    height: 300px; }
+    height: 100%; }
   .shift-text .tagline {
     opacity: 0.9; }
 
@@ -562,8 +620,9 @@ Terminal
 
 .title-bar {
   padding: 10px 0;
-  font-family: "Lucida Grande", sans-serif;
-  font-size: 1.4em;
+  font-family: 'Asap', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.7em;
   text-align: center;
   text-shadow: rgba(255, 255, 255, 0.8) 0px 1px 0px;
   background-color: #f8f8f8;
@@ -579,10 +638,10 @@ Terminal
   padding: 10px;
   color: #35BBB5;
   text-shadow: #000 0px 1px 0px;
-  font-family: "Consolas", "Courier New", "Courier";
-  font-size: 1.75em;
+  font-family: 'Asap', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.7em;
   line-height: 1.40em;
-  font-weight: 500;
   text-align: left;
   overflow: hidden;
   -webkit-transition: all 0.5s ease-out;
@@ -644,4 +703,8 @@ Alert
 
 b, strong {
     font-size: 14px;
+}
+
+.alert {
+    margin-right: 8%;
 }
