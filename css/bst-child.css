@@ -70,7 +70,9 @@ hr {
 
 span.underline { text-decoration: underline; }
 
-
+.fa-check {
+    color: #35BBB5;
+} 
 /*
 Read More
 */

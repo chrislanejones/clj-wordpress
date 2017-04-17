@@ -102,12 +102,12 @@
             </div>
             <!-- EXPERIENCES -->
             <div class="box">
-              <h3><div class="hicon"><i class="fa fa-briefcase faa-wrench animated-hover fa-fw" aria-hidden="true"></div></i> Experiences</h3>
+              <h3><div class="hicon"><i class="fa fa-briefcase faa-shake animated-hover fa-fw" aria-hidden="true"></div></i> Experiences</h3>
               <div class="job clearfix">
 
                 <div class="col-xs-12">
                   <div class="profession"><h4>Graphic and Web Designer</h4></div>
-                  <div class="where"><h4>Web.com | October 2015 – Present | Jacksonville, Florida Area</h4></div>
+                  <div class="where"><h4>Web.com | October 2015 – Present | Jacksonville, Florida</h4></div>
                   <div class="description">
   <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain portfolio-grade websites using HTML, CSS and Javascript for clients.
   <br><i class="fa fa-check" aria-hidden="true"></i> Match the client's request by hacking the disjointed WYSIWYG web editor
@@ -118,23 +118,21 @@
   <br><i class="fa fa-check" aria-hidden="true"></i> Help customers maximize traction on Google by bringing their SEO score up to 100%.
   <br><i class="fa fa-check" aria-hidden="true"></i> Brainstorm ideas and find tools that expedite the process and create an easier customer experience.
   <br><i class="fa fa-check" aria-hidden="true"></i> Upsell clients to products that better suit their individual needs.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Exceed expectations by completing more websites per hour before and after training.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Taught my trainer and several veteran employees, keyboard shortcuts during training.
   <br>
   <br><h4><i class="fa fa-trophy fa-lg" aria-hidden="true"></i>Awards:</h4>
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Marketing Maestro for April 2016 - #1 product up-seller on a team of 60+ workers.
+  <br><i class="fa fa-star-o" aria-hidden="true"></i> Marketing Maestro for April 2016 - #1 product up-seller on a team of 60+ workers.<span class="more">
   <br><i class="fa fa-star-o" aria-hidden="true"></i> Earned a WOW Wizard website design and kept a Quality Control score of 100% in March 2016.
   <br><i class="fa fa-star-o" aria-hidden="true"></i> Achieved third place in February 2016 for most website mods completed in a team of over fifty.
   <br><i class="fa fa-star-o" aria-hidden="true"></i> WOW Wizard for design two weeks in a row in November 2016.
   <br><i class="fa fa-star-o" aria-hidden="true"></i> Received the most end-of-call surveys on my team in November 2016.
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Earned a Chili's gift card from management for customer compliment voicemail in December 2016.
+  <br><i class="fa fa-star-o" aria-hidden="true"></i> Earned a Chili's gift card from management for customer compliment voicemail in December 2016.</span>
 </div>
                 </div>
               </div>
               <div class="job clearfix">
                 <div class="col-xs-12">
                   <div class="profession"><h4>Web Designer and Developer, SEO and Video Editor</h4></div>
-                  <div class="where"><h4>Chris Lane Jones | June 2013 – Present | Jacksonville, Florida Area</h4></div>
+                  <div class="where"><h4>Chris Lane Jones | June 2013 – Present | Jacksonville, Florida</h4></div>
                   <div class="description">
   <br><i class="fa fa-check" aria-hidden="true"></i> Freelance for major clients: Jacksonville Area Legal Aid, Mary Fisher Design, Rethreaded and Girls Inc.
   <br><i class="fa fa-check" aria-hidden="true"></i> Create responsive HTML5 websites using WordPress utilizing a hosted server, design site with Photoshop, and find keywords for SEO.
@@ -143,15 +141,41 @@
   <br><i class="fa fa-check" aria-hidden="true"></i> Spread the word via Twitter and Facebook connections and raised awareness to a local event.
   <br><i class="fa fa-check" aria-hidden="true"></i> Proactively find prospects by attending several networking events monthly, and cold calling.
   <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain customer relationships by creating quality customer service and cold calling.
-
-
-
-
-  </div>
+</div>
+                
                 </div>
               </div>
-            </div>
-          </div>
+<div class="box">
+
+<h3><div class="hicon"><i class="fa fa-handshake-o faa-bounce animated-hover fa-fw" aria-hidden="true"></div></i> Associations</h3>
+<div class="job clearfix">
+                <div class="col-xs-12">
+
+
+                  <div class="profession"><h4>Digital Director</h4></div>
+                  <div class="where"><h4>Jacksonville Online Marketing MeetUp | February 2017 – Present | Jacksonville, Florida</h4></div>
+                  <div class="description">
+  <br><i class="fa fa-check" aria-hidden="true"></i> Add events and fix issues with the JOMM WordPress website.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Elevate notice on events by updating events on social media.
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+ 
+
+
+
+
+
+
+
+
 
 
           <div class="col-xs-12 col-sm-5">
