@@ -14,4 +14,6 @@ function bst_child_enqueues() {
 }
 add_action('wp_enqueue_scripts', 'bst_child_enqueues', 101);
 
+add_theme_support( 'post-formats', array( 'quote', 'gallery', 'link' ) );
+
 ?>

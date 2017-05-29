@@ -18,15 +18,15 @@
   <div id="clock">
   <div class="alert alert-info fade in alert-dismissable">
       <a href="#" class="close" data-dismiss="alert" aria-label="close" title="close">×</a>
-      <a href="https://2017.jacksonville.wordcamp.org/" rel="nofollow" target="_blank"><img src="https://2017.jacksonville.wordcamp.org/files/2017/01/wcjax_logo.png" alt="Jacksonville WordCamp 2016" height="80" width="80"></a>
-     <strong>Jacksonville WordCamp 2017 is in</strong>
+      <a href="https://2017.asheville.wordcamp.org/" rel="nofollow" target="_blank"><img src="https://2017.asheville.wordcamp.org/files/2017/03/WCAVL2017-logo@640.png" alt="Asheville WordCamp 2017" height="80" width="80"></a>
+     <strong>Asheville WordCamp 2017 is in</strong>
      <strong><span class="digit" id="months"></span> Months,</strong>
      <strong><span class="digit" id="days"></span> Days,</strong>
      <strong><span class="digit" id="hours"></span> Hours,</strong>
      <strong><span class="digit" id="minutes"></span> Minutes,</strong>
      <strong><span class="digit" id="seconds"></span> Seconds.</strong>
 
-       <strong><a href="https://2017.jacksonville.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Hope to see you there!</span></u></a></strong>
+       <strong><a href="https://2017.asheville.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Hope to see you there!</span></u></a></strong>
 
 
 </div><!-- clock div -->
@@ -48,7 +48,7 @@
 
             <!-- EDUCATION -->
             <div class="box">
-            <h3><div class="hicon"><i class="fa fa-graduation-cap faa-bounce animated-hover fa-fw" aria-hidden="true"></div></i> Education & Web History</h3>
+            <h3><div class="hicon"><i class="fa fa-graduation-cap faa-bounce animated-hover fa-fw" aria-hidden="true"></i></div> Education & Web History</h3>
               <ul id="education" class="clearfix">
                 <li>
                   <div class="year pull-left">2012</div>

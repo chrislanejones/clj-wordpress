@@ -51,7 +51,7 @@ h5{
 }
 
 h6{
-  ffont-family: 'Asap', Arial, sans-serif;
+    font-family: 'Asap', Arial, sans-serif;
     font-weight: 400;
     font-size: 1.4em;
 
@@ -72,7 +72,7 @@ span.underline { text-decoration: underline; }
 
 .fa-check {
     color: #35BBB5;
-} 
+}
 /*
 Read More
 */
