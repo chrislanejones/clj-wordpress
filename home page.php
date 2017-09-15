@@ -8,6 +8,7 @@
 
 <?php get_template_part('includes/header'); ?>
 
+
 <div class="col-xs-12 col-sm-11">
 
 <div class="container">
@@ -18,15 +19,15 @@
   <div id="clock">
   <div class="alert alert-info fade in alert-dismissable">
       <a href="#" class="close" data-dismiss="alert" aria-label="close" title="close">×</a>
-      <a href="https://2017.asheville.wordcamp.org/" rel="nofollow" target="_blank"><img src="https://2017.asheville.wordcamp.org/files/2017/03/WCAVL2017-logo@640.png" alt="Asheville WordCamp 2017" height="80" width="80"></a>
-     <strong>Asheville WordCamp 2017 is in</strong>
+      <a href="https://2017.us.wordcamp.org/" rel="nofollow" target="_blank"><img src="https://2017.us.wordcamp.org/files/2017/02/WordCampUS-Logo_2017-Below.png" alt="WordCamp US 2017" height="80" width="80"></a>
+
+     <strong> WordCamp US (Nashville) is in </strong>
      <strong><span class="digit" id="months"></span> Months,</strong>
      <strong><span class="digit" id="days"></span> Days,</strong>
-     <strong><span class="digit" id="hours"></span> Hours,</strong>
+     <strong><span class="digit" id="hours"></span> Hours, and</strong>
      <strong><span class="digit" id="minutes"></span> Minutes,</strong>
-     <strong><span class="digit" id="seconds"></span> Seconds.</strong>
-
-       <strong><a href="https://2017.asheville.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Hope to see you there!</span></u></a></strong>
+     <!-- <strong><span class="digit" id="seconds"></span> Seconds.</strong> -->
+       <strong> Get Your <a href="https://2017.us.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Tickets Now!</span></u></a></strong>
 
 
 </div><!-- clock div -->
@@ -98,6 +99,18 @@
 
                   </div>
                 </li>
+
+<li>
+                <div class="year pull-left">2017</div>
+                  <div class="description pull-right">
+
+
+      <h5><i class="fa fa-flag fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>Became the Digital Director for The JOMM</h5>
+      <h6><span class="more">The JOMM is Jacksonville's Marketing Association. When I became the Digital Director, I revamped that site and I'm in charge of making sure we have attendees for our monthly events. My secret sauce is Email marketing conversions (yes, I believe in the email list too), social media presence, Meetup.com and increasing the website’s clickthrough rate.</span></h6>
+
+                  </div>
+                </li>
+
               </ul>
             </div>
             <!-- EXPERIENCES -->
@@ -108,24 +121,36 @@
                 <div class="col-xs-12">
                   <div class="profession"><h4>Graphic and Web Designer</h4></div>
                   <div class="where"><h4>Web.com | October 2015 – Present | Jacksonville, Florida</h4></div>
-                  <div class="description">
-  <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain portfolio-grade websites using HTML, CSS and Javascript for clients.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Match the client's request by hacking the disjointed WYSIWYG web editor
-  but also using a method that a less knowledgeable agent could change.
+                  <div class="description"> 
+  <br><i class="fa fa-bolt fa-pull-left fa-2x" aria-hidden="true"></i> Wrote a company-wide proposal that circumvents an error I found in the phone systems. As of Aug 14th, the proposal is in the final review stages. 
+  When commenced, it will change the company's phone systems internationally.
+  <br>
+  <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain portfolio-grade websites using HTML, CSS, and Javascript for clients.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Consult clients on what steps to take to maximize their success in the digital marketplace.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Match the client's request by hacking the disjointed WYSIWYG web editor but also using a method that a less knowledgeable agent could change.
   <br><i class="fa fa-check" aria-hidden="true"></i> Ensure that every site is mobile responsive by setting and adjusting breakpoints.
   <br><i class="fa fa-check" aria-hidden="true"></i> Save the company money by redesigning escalated client’s websites in a fraction of allotted time.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Cross-trained in store support and E-commerce and help clients add products with ease.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Help customers maximize traction on Google by bringing their SEO score up to 100%.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Brainstorm ideas and find tools that expedite the process and create an easier customer experience.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Upsell clients to products that better suit their individual needs.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Cross-trained in E-commerce and help clients add products with ease.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Help customers maximize traction on Google by bringing their SEO score up to 100% in the company’s proprietary software.
+  <br><i class="fa fa-check" aria-hidden="true"></i> Upsell clients on products that better suit their individual needs.
+
+
+
   <br>
-  <br><h4><i class="fa fa-trophy fa-lg" aria-hidden="true"></i>Awards:</h4>
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Marketing Maestro for April 2016 - #1 product up-seller on a team of 60+ workers.<span class="more">
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Earned a WOW Wizard website design and kept a Quality Control score of 100% in March 2016.
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Achieved third place in February 2016 for most website mods completed in a team of over fifty.
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> WOW Wizard for design two weeks in a row in November 2016.
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Received the most end-of-call surveys on my team in November 2016.
-  <br><i class="fa fa-star-o" aria-hidden="true"></i> Earned a Chili's gift card from management for customer compliment voicemail in December 2016.</span>
+  <br><h4><i class="fa fa-trophy fa-lg" aria-hidden="true"></i> Awards:</h4>
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Marketing Maestro for April 2016 - #1 product up-seller on a team of 60+ workers.
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Earned a WOW Wizard website design and kept a Quality Control score of 100% in March 2016. 
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Achieved third place in February 2016 for most website mods completed in a team of over fifty.
+  <br><i class="fa fa-star" aria-hidden="true"></i>  WOW Wizard for design two weeks in a row in November 2016.
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Received the most end-of-call surveys on my team in November 2016.
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Earned a Chili's gift card from management for customer compliment voicemail in December 2016.
+  <br><i class="fa fa-star" aria-hidden="true"></i>  Earned a Gate Gas gift card for my timeframe management of how long it takes to get a customer's request completed and out the door in March 2017.
+
+
+</span>
+<br>
+<br>
+<a href="https://chrislanejones.com/wp-content/uploads/2017/08/Web.com-Portfolio.pdf" class="btn btn-default" role="button" target="_blank">See Web.com Portfolio ></a>
 </div>
                 </div>
               </div>
@@ -142,6 +167,9 @@
   <br><i class="fa fa-check" aria-hidden="true"></i> Proactively find prospects by attending several networking events monthly, and cold calling.
   <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain customer relationships by creating quality customer service and cold calling.
 </div>
+<br>
+<br>
+<a href="https://insurance.chrislanejones.com/" class="btn btn-default" role="button" target="_blank">See An Insurance Site I Built ></a>
                 
                 </div>
               </div>
@@ -155,8 +183,13 @@
                   <div class="profession"><h4>Digital Director</h4></div>
                   <div class="where"><h4>Jacksonville Online Marketing MeetUp | February 2017 – Present | Jacksonville, Florida</h4></div>
                   <div class="description">
-  <br><i class="fa fa-check" aria-hidden="true"></i> Add events and fix issues with the JOMM WordPress website.
-  <br><i class="fa fa-check" aria-hidden="true"></i> Elevate notice on events by updating events on social media.
+<br><i class="fa fa-check" aria-hidden="true"></i> Manage the marketing emails and ensure that an average of 30 - 50 people attend the monthly marketing events.
+<br><i class="fa fa-check" aria-hidden="true"></i> Set and passed analytical goals between the email marketing conversions, social media presence, and website visits.
+<br><i class="fa fa-check" aria-hidden="true"></i> Repaired the website by adding analytics tools, fixing broken pages and increased website’s clickthrough rate.
+
+<br>
+<br>
+<a href="http://thejomm.com/blog/use-live-chat-obtain-clients-score-sales/" class="btn btn-default" role="button" target="_blank">See My Recent Post About Live Chat ></a>
 </div>
 </div>
 </div>
@@ -182,17 +215,7 @@
 
 <div class="box clearfix">
 
-              <h3><div class="hicon"><i class="fa fa-phone faa-ring animated-hover fa-fw" aria-hidden="true"></div></i> Contact</h3>
-              <div class="contact-item">
-                <div class="icon pull-left text-center"><span class="fa fa-phone fa-fw"></span></div>
-                <div class="title only pull-right">1 (904) 327-3284</div>
-              </div>
-              <div class="contact-item">
-                <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span></div>
-                <div class="title only pull-right">
-                <a href="mailto:chris@chrislanejones.com">chris@chrislanejones.com</a>
-                </div>
-              </div>
+              <h3><div class="hicon"><i class="fa fa-rss faa-pulse animated-hover fa-fw" aria-hidden="true"></div></i> Social</h3>
               <div class="contact-item">
                 <div class="icon pull-left text-center"><span class="fa fa-twitter fa-fw"></span></div>
                 <div class="title pull-right">Twitter</div>
@@ -207,6 +230,11 @@
                 <div class="icon pull-left text-center"><span class="fa fa-github fa-fw"></span></div>
                 <div class="title pull-right">GitHub</div>
                 <div class="description pull-right"><a href="https://github.com/chrislanejones" target="_blank">https://github.com/chrislanejones</a></div>
+              </div>
+              <div class="contact-item">
+                <div class="icon pull-left text-center"><span class="fa fa-youtube fa-fw"></span></div>
+                <div class="title pull-right">YouTube</div>
+                <div class="description pull-right"><a href="http://bit.ly/2r6hHAP" target="_blank">https://www.youtube.com/channel/UCgzT2ZFTtiaMLVFoGTSfIAg</a></div>
               </div>
 
 
@@ -223,11 +251,39 @@
             <div class="box">
               <h3><div class="hicon"><i class="fa fa-bar-chart faa-tada animated-hover fa-fw" aria-hidden="true"></div></i> Skills</h3>
               <div class="skills">
+
+                <div class="barWrapper">
+                 <span class="progressText"><h3>WordPress</h3></span>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"></span>
+                  </div>
+                </div>
+                </div>
+
+                <div class="barWrapper">
+                 <span class="progressText"><h3>SEO</h3></span>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"></span>
+                  </div>
+                </div>
+                </div>
+
+                <div class="barWrapper">
+                 <span class="progressText"><h3>Email Marketing</h3></span>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="90%"></span>
+                  </div>
+                </div>
+                </div>
+
                 <div class="barWrapper">
                  <span class="progressText"><h3>HTML5</h3></span>
                 <div class="progress">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" >
-                        <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"> </span>
+                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" >
+                        <span  class="popOver" data-toggle="tooltip" data-placement="top" title="90%"> </span>
                 </div>
                 </div>
 
@@ -258,14 +314,6 @@
                 </div>
                 </div>
 
-                <div class="barWrapper">
-                 <span class="progressText"><h3>WordPress</h3></span>
-                <div class="progress">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="75%"></span>
-                  </div>
-                </div>
-                </div>
 
                   <div class="barWrapper">
                  <span class="progressText"><h3>PHP</h3></span>
@@ -326,21 +374,20 @@
             <div class="head-wrap shift-text">
 
               <div class="text-editor-wrap">
-                <div class="title-bar"><span class="title">chrislanejones@archlinuxpc</span>
+                <div class="title-bar"><span class="title">chrislanejones@chrislanejones</span>
   </div><div>
 
 
     <div class="text-body">
-       <span id="typed">chrislanejones@archlinuxpc: ~>$ sudo lshw
+       <span id="typed">chrislanejones@chrislanejones: ~>$ sudo lshw
 </br>
-</br>Primary OS: Arch Linux
-</br>Primary DE: Gnome
+</br>Primary OS: Ubuntu Gnome
+</br>Secondary OS: Kali Linux
 </br>Primary IDE: Atom
-</br>Text Editors: Nano, Gedit
-</br>Web Host Type: VPS Debian Droplet
-</br>Local Host: LAMP stack
-</br>Web Server: Apache or Ngnix
 </br>PHP Editor: PHP Storm
+</br>Text Editors: Nano, Gedit
+</br>Web Host: <a href="https://www.siteground.com/index.htm?afcode=239b6a7c8295f129a86fd010925e4f35" target="_blank">SiteGround❤!</a> 
+</br>Local Host: LAMP stack
 </br>Container: Docker
 </br>FTP: Filezilla
 </button></span>

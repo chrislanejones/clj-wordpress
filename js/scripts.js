@@ -67,7 +67,7 @@ $(document).ready(function(){
 
 });
 $(document).ready(function(){
-  var deadline = new Date("2017/05/20");
+  deadline = new Date("2017/12/01");
 
   function updateClock(){
   var today = Date();

@@ -1,15 +1,7 @@
-<?php
-
-set_post_format($post->ID, 'quote' );
-
-?>
-
-<?php if(have_posts()): while(have_posts()): the_post();?>
+<!DOCTYPE html>
 <ul id="boxline" class="clearfix">
     <article role="article" id="post_<?php the_ID()?>">
-        <header>
 
-        </header>
         <section>
             <?php the_post_thumbnail(); ?>
             <li>
@@ -30,23 +22,7 @@ set_post_format($post->ID, 'quote' );
                </em>
 </div> <!--textbox div-->
         </section>
-        <footer>
-            <p class="text-muted" style="margin-bottom: 20px;">
-
-
-            </p>
-
-        </footer>
+       
     </article>
   </ul>
-<?php endwhile; ?>
 
-
-<?php if ( function_exists('bst_pagination') ) { bst_pagination(); } else if ( is_paged() ) { ?>
-  <ul class="pagination">
-    <li class="older"><?php next_posts_link('<i class="glyphicon glyphicon-arrow-left"></i> ' . __('Previous', 'bst')) ?></li>
-    <li class="newer"><?php previous_posts_link(__('Next', 'bst') . ' <i class="glyphicon glyphicon-arrow-right"></i>') ?></li>
-  </ul>
-<?php } ?>
-
-<?php else: get_template_part('includes/loops/content', 'none'); endif; ?>

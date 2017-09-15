@@ -16,6 +16,7 @@ Then you can insert the Search Widget into the sidebar.
 	               <li><a href="https://www.linkedin.com/in/chrislanejones" target="_blank"><i class="fa fa-lg fa-linkedin"></i></a></li>
 	               <li><a href="https://codepen.io/chrislanejones" target="_blank"><i class="fa fa-lg fa-codepen"></i></a></li>
 	               <li><a href="https://github.com/chrislanejones" target="_blank"><i class="fa fa-lg fa-github"></i></a></li>
-                       <li><a href="https://www.freecodecamp.com/chrislanejones" target="_blank"><i class="fa fa-lg fa-free-code-camp"></i></a></li>
+                   <li><a href="https://www.freecodecamp.com/chrislanejones" target="_blank"><i class="fa fa-lg fa-free-code-camp"></i></a></li>
+                   <li><a href="https://www.youtube.com/channel/UCgzT2ZFTtiaMLVFoGTSfIAg" target="_blank"><i class="fa fa-lg fa-youtube"></i></a></li>
 
 	</button></a></li>

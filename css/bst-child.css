@@ -70,9 +70,25 @@ hr {
 
 span.underline { text-decoration: underline; }
 
+/*******************************************
+Font Awesome Colors
+*******************************************/
 .fa-check {
     color: #35BBB5;
+} 
+
+.fa-bolt {
+    color: #FFC90E;
+} 
+
+.fa-trophy {
+    color: #FFBF00;
+} 
+
+.fa-star {
+    color: #FFBF00;
 }
+
 /*
 Read More
 */

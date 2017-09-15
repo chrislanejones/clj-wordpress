@@ -1,11 +1,4 @@
-<?php
-/*
-The Link Loop
-=============
-*/
-?>
-
-<?php if(have_posts()): while(have_posts()): the_post();?>
+<!DOCTYPE html>
 <ul id="boxline" class="clearfix">
   <article role="article" id="post_<?php the_ID()?>">
         <header>
@@ -40,13 +33,3 @@ The Link Loop
             </section>
         </footer>
     </article>
-<?php endwhile; ?>
-
-<?php if ( function_exists('bst_pagination') ) { bst_pagination(); } else if ( is_paged() ) { ?>
-  <ul class="pagination">
-    <li class="older"><?php next_posts_link('<i class="glyphicon glyphicon-arrow-left"></i> ' . __('Previous', 'bst')) ?></li>
-    <li class="newer"><?php previous_posts_link(__('Next', 'bst') . ' <i class="glyphicon glyphicon-arrow-right"></i>') ?></li>
-  </ul>
-<?php } ?>
-
-<?php else: get_template_part('includes/loops/content', 'none'); endif; ?>
