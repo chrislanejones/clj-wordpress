@@ -62,13 +62,14 @@
 				<!-- PHOTO (AVATAR) -->
 
 				<div id="photo">
-					<a href="<?php echo home_url('/'); ?>"><img src="/wp-content/uploads/2017/01/cljimage.jpg" alt="Chris Lane Jones Avatar" title="Chris Lane Jones"></a>
+					<a href="<?php echo home_url('/'); ?>"><img src="/wp-content/uploads/2018/03/ChrisHeadshot.jpg" alt="Chris Lane Jones Avatar" title="Chris Lane Jones"></a>
 
 				</div>
 				<div id="text-header">
-					<h1><?php bloginfo('name'); ?></h1> <h2><?php bloginfo('description'); ?></h2>
+					<h1>Chris Lane Jones <?php /* your comment bloginfo('name'); */ ?> </h1> <h2><?php bloginfo('description'); ?></h2>
 					<hr class="line">
 				</div>
 			</div>
 		</div>
 	</div>
+

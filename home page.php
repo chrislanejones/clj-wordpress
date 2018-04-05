@@ -19,15 +19,15 @@
   <div id="clock">
   <div class="alert alert-info fade in alert-dismissable">
       <a href="#" class="close" data-dismiss="alert" aria-label="close" title="close">×</a>
-      <a href="https://2017.us.wordcamp.org/" rel="nofollow" target="_blank"><img src="https://2017.us.wordcamp.org/files/2017/02/WordCampUS-Logo_2017-Below.png" alt="WordCamp US 2017" height="80" width="80"></a>
+      <a href="https://2018.jacksonville.wordcamp.org" rel="nofollow" target="_blank"><img src="https://chrislanejones.com/wp-content/uploads/2017/12/The-Cow.png" alt="The WordPress Jacksonville Cow" title="The 2018 WordPress Jacksonville(cowford) Cow"></a>
 
-     <strong> WordCamp US (Nashville) is in </strong>
+     <strong> WordCamp Jax 2018 is in </strong>
      <strong><span class="digit" id="months"></span> Months,</strong>
      <strong><span class="digit" id="days"></span> Days,</strong>
      <strong><span class="digit" id="hours"></span> Hours, and</strong>
      <strong><span class="digit" id="minutes"></span> Minutes,</strong>
      <!-- <strong><span class="digit" id="seconds"></span> Seconds.</strong> -->
-       <strong> Get Your <a href="https://2017.us.wordcamp.org/" rel="nofollow" target="_blank"><span class="underline">Tickets Now!</span></u></a></strong>
+       <strong><a href="https://2018.jacksonville.wordcamp.org" rel="nofollow" target="_blank"><span class="underline">Come On Out!!</span></u></a></strong>
 
 
 </div><!-- clock div -->
@@ -57,7 +57,7 @@
 
 
 
-      <h5><i class="fa fa-code fa-pull-left fa-border fa-1x" aria-hidden="true"></i> I spent my entire Winter break in college building a portfolio.</h5>
+      <h5><i class="fa fa-code fa-pull-left fa-border fa-1x" aria-hidden="true"></i> I spent my entire Winter break in college building a website portfolio.</h5>
       <h6><span class="more">While my other TV broadcast classmates used a free blog, I went out and purchased my own website host,
         and edited a WordPress theme. I was offered by the professor to present my website in front of the class the first week of the semester.</span></h6>
 
@@ -70,7 +70,7 @@
 
 
                     <h5><i class="fa fa-film fa-pull-left fa-border fa-1x" aria-hidden="true"></i> The portfolio I built, spawned a volunteer opportunity for a film fest. </h5>
-                    <h6><span class="more">A friend introduced me to someone who frantically needed a website for a non-profit local film fest.
+                    <h6><span class="more">A professor introduced me to someone who frantically needed a website for a non-profit local film fest.
                       I garnered my new skills and had a website up and running before the screening. </span></h6>
 
 
@@ -81,9 +81,9 @@
                   <div class="description pull-right">
 
 
-      <h5><i class="fa fa-university fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>I graduated from UNF and started a job just two weeks later.</h5>
+      <h5><i class="fa fa-university fa-pull-left fa-border fa-1x" aria-hidden="true"></i> I graduated from UNF and started a job just two weeks later.</h5>
       <h6><span class="more">In college, I took on three internships, one was required and you were allowed a maximum of three more. I considered doing one more internship until I heard
-        the words, "you got the job!" My first job dealt with uploading files and photoshop work which landed me at Web.com </span></h6>
+        the words, "you got the job!" While video editing I also uploaded server files and Photoshop work... which helped land my next gig. </span></h6>
 
                   </div>
                 </li>
@@ -93,9 +93,9 @@
                   <div class="description pull-right">
 
 
-      <h5><i class="fa fa-wordpress fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>My custom-built WordPress site and Photoshop skills landed me a job at Web.com</h5>
+      <h5><i class="fa fa-wordpress fa-pull-left fa-border fa-1x" aria-hidden="true"></i> My custom-built WordPress site and Photoshop skills landed me a job at Web.com</h5>
       <h6><span class="more">After working in video production, I yearned to work in web design and development. One of my jobs involved placing videos on the site and using FTP.
-        I also learned Javascript own my own because I wanted to build web apps to increase productivity, I joined Web that fall to work on websites full time. </span></h6>
+        I also learned Javascript own my own because I wanted to build web apps to increase productivity, I joined Web that fall to design, repair and maintain websites full time. </span></h6>
 
                   </div>
                 </li>
@@ -105,7 +105,7 @@
                   <div class="description pull-right">
 
 
-      <h5><i class="fa fa-flag fa-pull-left fa-border fa-1x" aria-hidden="true"></i><h5>Became the Digital Director for The JOMM</h5>
+      <h5><i class="fa fa-flag fa-pull-left fa-border fa-1x" aria-hidden="true"></i> Became the Digital Director for The JOMM</h5>
       <h6><span class="more">The JOMM is Jacksonville's Marketing Association. When I became the Digital Director, I revamped that site and I'm in charge of making sure we have attendees for our monthly events. My secret sauce is Email marketing conversions (yes, I believe in the email list too), social media presence, Meetup.com and increasing the website’s clickthrough rate.</span></h6>
 
                   </div>
@@ -122,8 +122,7 @@
                   <div class="profession"><h4>Graphic and Web Designer</h4></div>
                   <div class="where"><h4>Web.com | October 2015 – Present | Jacksonville, Florida</h4></div>
                   <div class="description"> 
-  <br><i class="fa fa-bolt fa-pull-left fa-2x" aria-hidden="true"></i> Wrote a company-wide proposal that circumvents an error I found in the phone systems. As of Aug 14th, the proposal is in the final review stages. 
-  When commenced, it will change the company's phone systems internationally.
+  <br><i class="fa fa-bolt fa-pull-left fa-2x" aria-hidden="true"></i> Spearheaded a company-wide proposal that circumvents an error I found in the phone systems. As of Dec 10th, the proposal is in the final review stages. When commenced, it will change the company's phone systems internationally.
   <br>
   <br><i class="fa fa-check" aria-hidden="true"></i> Build and maintain portfolio-grade websites using HTML, CSS, and Javascript for clients.
   <br><i class="fa fa-check" aria-hidden="true"></i> Consult clients on what steps to take to maximize their success in the digital marketplace.
@@ -156,7 +155,7 @@
               </div>
               <div class="job clearfix">
                 <div class="col-xs-12">
-                  <div class="profession"><h4>Web Designer and Developer, SEO and Video Editor</h4></div>
+                  <div class="profession"><h4>Website Designer, Website Repairman, Web Developer, SEO and Video Editor (past)</h4></div>
                   <div class="where"><h4>Chris Lane Jones | June 2013 – Present | Jacksonville, Florida</h4></div>
                   <div class="description">
   <br><i class="fa fa-check" aria-hidden="true"></i> Freelance for major clients: Jacksonville Area Legal Aid, Mary Fisher Design, Rethreaded and Girls Inc.
@@ -169,7 +168,7 @@
 </div>
 <br>
 <br>
-<a href="https://insurance.chrislanejones.com/" class="btn btn-default" role="button" target="_blank">See An Insurance Site I Built ></a>
+<a href="https://windwardsailing.com/" class="btn btn-default" role="button" target="_blank">See A Sailing Site I Just Completed ></a>
                 
                 </div>
               </div>
@@ -186,10 +185,11 @@
 <br><i class="fa fa-check" aria-hidden="true"></i> Manage the marketing emails and ensure that an average of 30 - 50 people attend the monthly marketing events.
 <br><i class="fa fa-check" aria-hidden="true"></i> Set and passed analytical goals between the email marketing conversions, social media presence, and website visits.
 <br><i class="fa fa-check" aria-hidden="true"></i> Repaired the website by adding analytics tools, fixing broken pages and increased website’s clickthrough rate.
-
+<br><i class="fa fa-check" aria-hidden="true"></i> Spoke at the March 2018 Speaking Engagement and informed the attendees about best SEO practices. See PowerPoint Below.
 <br>
 <br>
-<a href="http://thejomm.com/blog/use-live-chat-obtain-clients-score-sales/" class="btn btn-default" role="button" target="_blank">See My Recent Post About Live Chat ></a>
+<a href="https://chrislanejones.com/wp-content/uploads/2018/03/Bringing-Your-SEO-into-2018.pdf" class="btn btn-default" role="button" target="_blank">SEO Speech Presentation ></a>
+<a href="http://thejomm.com/blog/use-live-chat-obtain-clients-score-sales/" class="btn btn-default" role="button" target="_blank">My Blog Post About Live Chat ></a>
 </div>
 </div>
 </div>
@@ -252,8 +252,26 @@
               <h3><div class="hicon"><i class="fa fa-bar-chart faa-tada animated-hover fa-fw" aria-hidden="true"></div></i> Skills</h3>
               <div class="skills">
 
+				   <div class="barWrapper">
+                 <span class="progressText"><h3>WordPress Website Repair</h3></span>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"></span>
+                  </div>
+                </div>
+                </div>
+				  
+				  <div class="barWrapper">
+                 <span class="progressText"><h3>WordPress Website Design</h3></span>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="93" aria-valuemin="0" aria-valuemax="100">
+                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="93%"></span>
+                  </div>
+                </div>
+                </div>
+
                 <div class="barWrapper">
-                 <span class="progressText"><h3>WordPress</h3></span>
+                 <span class="progressText"><h3>Search Engine Optimization (SEO)</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"></span>
@@ -262,16 +280,7 @@
                 </div>
 
                 <div class="barWrapper">
-                 <span class="progressText"><h3>SEO</h3></span>
-                <div class="progress">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
-                      <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"></span>
-                  </div>
-                </div>
-                </div>
-
-                <div class="barWrapper">
-                 <span class="progressText"><h3>Email Marketing</h3></span>
+                 <span class="progressText"><h3>UX and A/B Testing</h3></span>
                 <div class="progress">
                   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
                       <span  class="popOver" data-toggle="tooltip" data-placement="top" title="90%"></span>
@@ -305,6 +314,7 @@
                   </div>
                 </div>
                 </div>
+					
                 <div class="barWrapper">
                  <span class="progressText"><h3>jQuery<h3></span>
                 <div class="progress">
@@ -381,18 +391,16 @@
     <div class="text-body">
        <span id="typed">chrislanejones@chrislanejones: ~>$ sudo lshw
 </br>
-</br>Primary OS: Ubuntu Gnome
-</br>Secondary OS: Kali Linux
+</br>Primary OS: Fedora 27
+</br>Desktop Environment: Gnome
 </br>Primary IDE: Atom
 </br>PHP Editor: PHP Storm
 </br>Text Editors: Nano, Gedit
-</br>Web Host: <a href="https://www.siteground.com/index.htm?afcode=239b6a7c8295f129a86fd010925e4f35" target="_blank">SiteGround❤!</a> 
+</br>Web Host: <a href="https://www.siteground.com/index.htm?afcode=239b6a7c8295f129a86fd010925e4f35" target="_blank">SiteGround!</a> 
 </br>Local Host: LAMP stack
 </br>Container: Docker
 </br>FTP: Filezilla
 </button></span>
-
-
 
 
 

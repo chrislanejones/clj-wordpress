@@ -17,8 +17,44 @@ SETTINGS
 BODY
 *******************************************/
 
-div.contact-item { word-wrap: break-word;
+#text-header h1{
+  text-align: left!important;
+  margin-top: 5px!important;
 }
+
+#text-header h2{
+  text-align: left!important;
+  margin-top: 5px!important;
+}
+
+#text-header h1{
+text-shadow: 0 1px 0 #ccc,
+           0 2px 0 #c9c9c9,
+           0 3px 0 #bbb,
+           0 4px 0 #b9b9b9,
+           0 5px 0 #aaa,
+           0 6px 1px rgba(0,0,0,.1),
+           0 0 5px rgba(0,0,0,.1),
+           0 1px 3px rgba(0,0,0,.3),
+           0 3px 5px rgba(0,0,0,.2),
+           0 5px 10px rgba(0,0,0,.25),
+           0 10px 10px rgba(0,0,0,.2),
+           0 20px 20px rgba(0,0,0,.15);
+}
+
+@media screen and (min-width: 992px) {
+#text-header h1 {
+    font-size: 10em;
+}
+}
+
+@media screen and (max-width: 720px) {
+#text-header h1, h2, {
+
+          text-align: center!important;
+    }
+}
+
 
 h1 {
   font-family: 'Asap', Arial, sans-serif;
@@ -51,7 +87,7 @@ h5{
 }
 
 h6{
-  ffont-family: 'Asap', Arial, sans-serif;
+    font-family: 'Asap', Arial, sans-serif;
     font-weight: 400;
     font-size: 1.2em;
 
@@ -62,6 +98,11 @@ body{
   color: #000000;
   background-color: #3A5A75;
   background-image: url("/wp-content/uploads/2017/01/black-linen.png");
+}
+
+/* blog body */
+.largep {
+    font-size: 1.6rem;
 }
 
 hr {
@@ -161,7 +202,7 @@ Blog Page
     padding-bottom: 10px;
     font-size: 3.5em;
     font-weight: 400;
-    display: inlines-block;
+    display: inline-block;
 }
 
 #boxline .textbox {
@@ -273,43 +314,7 @@ PHOTO (AVATAR)
 Main Page
 *******************************************/
 
-#text-header h1{
-  text-align: left!important;
-  margin-top: 5px!important;
-}
 
-#text-header h2{
-  text-align: left!important;
-  margin-top: 5px!important;
-}
-
-#text-header h1{
-text-shadow: 0 1px 0 #ccc,
-           0 2px 0 #c9c9c9,
-           0 3px 0 #bbb,
-           0 4px 0 #b9b9b9,
-           0 5px 0 #aaa,
-           0 6px 1px rgba(0,0,0,.1),
-           0 0 5px rgba(0,0,0,.1),
-           0 1px 3px rgba(0,0,0,.3),
-           0 3px 5px rgba(0,0,0,.2),
-           0 5px 10px rgba(0,0,0,.25),
-           0 10px 10px rgba(0,0,0,.2),
-           0 20px 20px rgba(0,0,0,.15);
-}
-
-@media screen and (min-width: 992px) {
-#text-header h1 {
-    font-size: 10em;
-}
-}
-
-@media screen and (max-width: 720px) {
-#text-header h1, h2, {
-
-          text-align: center!important;
-    }
-}
 
 .none{
   display: none;
@@ -341,15 +346,23 @@ Navbar
    vertical-align: middle;
 }
 
-#menu-item-44 > a:before {
+#menu-item-357 > a:before {
    font-family: FontAwesome;
    font-size: 1.3em;
-   content: "\f09e";
+   content: "\f143";
    display: inline-block;
    padding-right: 6px;
    vertical-align: middle;
 }
 
+.menu-item-357 > a:before {
+   font-family: FontAwesome;
+   font-size: 1.3em;
+   content: "\f143";
+   display: inline-block;
+   padding-right: 6px;
+   vertical-align: middle;
+}
 
 #menu-item-292 > a:before {
    font-family: FontAwesome;
@@ -716,6 +729,13 @@ MEDIA
   #education .description{
     width: 90%;
   }
+}
+
+/*******************************************
+Contact Form
+*******************************************/
+
+div.contact-item { word-wrap: break-word;
 }
 
 

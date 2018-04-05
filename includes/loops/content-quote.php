@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<div class="containerfix">
 <ul id="boxline" class="clearfix">
     <article role="article" id="post_<?php the_ID()?>">
 
@@ -8,11 +9,14 @@
 
             <div class="textinfo pull-left"><i class="fa fa-quote-left" aria-hidden="true"></i></div>
             <div class="textbox pull-right">
-            <div class="text-center">
+            <div class="text-left">
 
 
-            <h2><?php the_content( __( '&hellip; ' . __('Continue reading', 'bst' ) . ' <i class="glyphicon glyphicon-arrow-right"></i>', 'bst' ) ); ?></h2>
-               <h3><a href="<?php the_permalink(); ?>"><div class="text-center"><?php the_title()?></a></div></h3>
+            
+               <h2><a href="<?php the_permalink(); ?>"><?php the_title()?></a></h2>
+				<div class="largep">
+				<p><?php the_content( __( '&hellip; ' . __('Continue reading', 'bst' ) . ' <i class="glyphicon glyphicon-arrow-right"></i>', 'bst' ) ); ?></p>
+				</div>
                <em>
                  <h3><?php _e('By', 'bst'); echo " "; the_author() ?>,</h3>
                  <h4><time  class="text-muted" datetime="<?php the_time('d-m-Y')?>"><?php the_time('jS F Y') ?>
@@ -25,4 +29,5 @@
        
     </article>
   </ul>
-
+	</ul>
+</div>
