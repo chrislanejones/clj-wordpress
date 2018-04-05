@@ -6,6 +6,13 @@ It is an almost completely blank theme started by Simon Padbury to allow Bootstr
 
 Here is the information about that theme.
 
+April 5, 2018 Update
+=========
+Removed a malware that spread to my server known as WordPress-WP-VCD, cleaned this site and other sites on the same server that the malware had spread to.
+
+I add a blog page and updated many aspects of the site including: images, copy, files and some of the style sheets.
+
+
 bst-child
 =========
   
